@@ -1,9 +1,9 @@
-# Salah-Prayer-Times-1
+# Salah Prayer Times 1
 
 PHP library for prayer times based on C library from ArabEyes:
 https://github.com/arabeyes-org/ITL/tree/master/prayertime
 
-#How to use
+# How to use
 
 Prayer times need the following information to be generated:
 
